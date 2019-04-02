@@ -1,0 +1,30 @@
+h1 { 
+    color:red;
+}
+
+p {
+    color:blue;
+}
+
+.div1 {
+    width:200px;
+    height:200px;
+    background-color:red;
+    background-size: cover;
+    background: url('test_img.png') no-repeat center center;
+}
+
+.div2 {
+    width:200px;
+    height:200px;
+    background-color:yellow;
+    border: pink 5px solid ;
+    margin: 0 auto;
+}
+
+#white_font {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+    color:white;
+}
